@@ -6,7 +6,7 @@ window.MENDOZA_CONFIG = {
   pedirCancion: "https://peticiones-mendoza.vercel.app/pedir",
 
   // Redes sociales — CAMBIA estos enlaces por los de tus perfiles
-  instagram: "https://www.instagram.com/sonidoydj_mendoza?stkn=MWhsNWVhYmM1MDhm",
+  instagram: "https://www.instagram.com/sonidoydj_mendoza?stkn=Mmdud2pqcnNtZmg5",
   tiktok: "https://www.tiktok.com/@sonido.dj.mendoza?_r=1&_t=ZS-9AJniZaLYFo",
   facebook: "https://www.facebook.com/share/1HnRjsYVAi/",
 
