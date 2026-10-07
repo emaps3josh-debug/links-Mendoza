@@ -3,7 +3,7 @@
    ============================================================ */
 window.MENDOZA_CONFIG = {
   // Botón principal "Pide tu canción" (tu plataforma de peticiones)
-  pedirCancion: "/pedir",
+  pedirCancion: "https://peticiones-mendoza.vercel.app/pedir",
 
   // Redes sociales — CAMBIA estos enlaces por los de tus perfiles
   instagram: "https://www.instagram.com/sonidoydj_mendoza?stkn=MWhsNWVhYmM1MDhm",
